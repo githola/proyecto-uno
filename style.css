@@ -1,3 +1,18 @@
+.imagen 
+{
+    background-image: url("/imagen.jpg") ; 
+   width: 400px;
+    height: 480px;
+
+}
+
 body
-background-image: url"/fondo 
-background-size:no 
+{
+    background-image: url("/imagen.jpg") ; 
+    width: 400px;
+    height: 480px;
+
+
+
+}
+
